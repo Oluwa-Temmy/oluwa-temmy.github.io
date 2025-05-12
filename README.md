@@ -1,1 +1,7 @@
-This repo is my github portfolio 
+All my Projects
+
+# Web Based 
+Transcodinential
+
+# Educational 
+R
